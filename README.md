@@ -1,5 +1,5 @@
 # Serverless
-A simple Severless application to create vinyl records
+A simple twitter clone serverless application
 
 Development
 -------------
