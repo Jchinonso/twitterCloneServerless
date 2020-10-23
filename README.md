@@ -1,4 +1,4 @@
-# Serverless
+# Twitter clone
 A simple twitter clone serverless application
 
 Development
